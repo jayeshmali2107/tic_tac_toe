@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Tic Tac Toe 2 Player Game - GUI Version
+GAME Tic Tac Toe 2 Player Game - GUI Version
 A graphical user interface implementation of the classic Tic Tac Toe game for two players.
 """
 
